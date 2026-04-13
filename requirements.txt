@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+bro, need your help.
+I sent son's clothes to my wf on 11th april. could you confirm this from her? +1 912117329
